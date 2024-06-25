@@ -1,0 +1,15 @@
+{
+  "name": "teststore",
+  "version": "1.0.0",
+  "main": "authorization.cy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^7.5.0",
+    "cypress": "^13.12.0"
+  },
+  "description": ""
+}
